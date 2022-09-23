@@ -15,7 +15,13 @@ N/A
 
 ## Usage 
 
-Inspect the page to examine the semantic structure present. Navigation bar links can be used to navigate to sections within the page.
+Inspect the page to examine the semantic structure present.
+
+Screenshot contains a potentially interesting area.
+
+![Alt text](./assets/images/horiseon-ss.png)
+
+ Navigation bar links can be used to navigate to sections within the page.
 
 ## License
 
